@@ -16,5 +16,3 @@ Writing business-focused SQL queries to analyze customer segments, purchasing be
 3. Visualization & Insights (Power BI):
 Building an interactive dashboard to highlight key trends and patterns, supporting data-driven decision-making.
 
-4. Presentation:
-Preparing a presentation that visually communicates insights and actionable recommendations to stakeholders.
